@@ -1,16 +1,15 @@
 /* ==UserStyle==
 @name         Customizable Discord! ✧･ﾟ☆
 @namespace    USO Archive
-@version      20250501.0
+@version      20250501.1
 @description  "Simple and customizable style for Discord!"
 @author       birb-naise
 @license      CC0-1.0
 @preprocessor uso
 
 @advanced	dropdown	bg			"Background" {
-	bg-custom-dropdown "Custom 🖼️" <<<EOT /*[[bg-custom]]*\/ EOT;
-
 	bg-default	"Sky*"			<<<EOT https://i.imgur.com/P5VYGj4.jpeg EOT;
+	bg-custom-dropdown "Custom 🖼️" <<<EOT /*[[bg-custom]]*\/ EOT;
 	bg-nene		"Nene"			<<<EOT https://i.imgur.com/hsMh7bC.png 	EOT;
 	bg-emu		"Emu"			<<<EOT https://i.imgur.com/tpkDRFf.png 	EOT;
 	bg-ai		"Ai"			<<<EOT https://i.imgur.com/KK08VK2.png 	EOT;
