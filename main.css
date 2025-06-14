@@ -103,15 +103,15 @@
 		
 		/*////////////// BACKGROUND COLORS //////////////*/
 		--background-primary: transparent;				/* Active Now sidebar (2)*/
-        	--background-secondary: transparent;            /* Active Now sidebar (1) */
+		--background-secondary: transparent;            /* Active Now sidebar (1) */
 		--background-tertiary: transparent;		        /* website bg (2) */
 		--bg-base-secondary: transparent;				/* members list */
+		--bg-base-tertiary: transparent;				/* servers sidebar */
 		--background-base-low: transparent;	  	  		/* user area, fullscreen settings menu right */
 		--background-base-lower: transparent;			/* chat, channel top bar, emoji/sticker sidebars */
 		--background-base-lowest: transparent;			/* website bg (1), channels sidebar, autocomplete servers */
 		--chat-background-default: transparent;			/* chat input */
-       		--bg-overlay-app-frame: /*[[bg-overlay]]*/;       /* website bg (3) */
-        	--app-background-frame: transparent;            /* servers sidebar */
+		--bg-overlay-app-frame: /*[[bg-overlay]]*/;       /* website bg (3) */
 
 		
 		/* channels & settings */
