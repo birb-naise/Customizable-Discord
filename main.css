@@ -50,7 +50,7 @@
 		:root {
 			--custom-app-top-bar-height: 0;
 		}
-		div[class^="bar"] {
+		[class^="base_"] > div[class^="bar_"] {
 			display: none;
 		}
 		nav[aria-label="Servers sidebar"] {
