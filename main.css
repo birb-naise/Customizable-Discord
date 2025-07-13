@@ -80,7 +80,7 @@
 		--popup-color: rgba(0, 0, 0, .7);
 		--theme-color: /*[[themecolor]]*/;
 		--theme-color-text: color-mix(in hsl, var(--theme-color), white 50%);
-    	--style-font: "/*[[font]]*/";
+    		--style-font: "/*[[font]]*/";
 	}
 
 	
@@ -91,6 +91,12 @@
 	}
 	body {
 		/*[[bg-blur]]*/
+	}
+	
+	
+	body {
+		/*[[bg-blur]]*/
+		background: /*[[bg-overlay]]*/
 	}
 	
 	
@@ -111,7 +117,7 @@
 		--background-base-lower: transparent;			/* chat, channel top bar, emoji/sticker sidebars */
 		--background-base-lowest: transparent;			/* website bg (1), channels sidebar, autocomplete servers */
 		--chat-background-default: transparent;			/* chat input */
-		--bg-overlay-app-frame: /*[[bg-overlay]]*/;       /* website bg (3) */
+ 		--bg-overlay-app-frame: /*[[bg-overlay]]*/;       /* website bg (3) */ 
 
 		
 		/* channels & settings */
